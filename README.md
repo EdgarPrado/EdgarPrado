@@ -11,6 +11,8 @@
 
 - 📫 Você me acha através do E-mail **edgar.pradowkk@gmail.com**
 
+![Edgar GitHub stats](https://github-readme-stats.vercel.app/api?username=EdgarPrado&show_icons=true&theme=dark)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/edgarprador" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/edgarprador" height="30" width="40" /></a>
