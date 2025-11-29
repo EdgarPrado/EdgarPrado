@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edgarprado&label=Profile%20views&color=0e75b6&style=flat" alt="edgarprado" /> </p>
 
-- 💻 Atualmente estou atuando na Área de Análista de Dados de CX (Client Experience) na Pague Menos, na qual cuido de todo o Processo de Análise, Visualização e Atualização dos dados de NPS. Dou suporte no Processo de Análise, Visualização e Atualização de dados do Projeto de Monitoramento de Pedidos da Companhia, e por fim, mas não menos importante, estou em processo de Aprendizagem no Uso da Ferramenta Alterix. ( Software que auxilia as Querys de SQL e traz mais segurança na hora dos Resultados Finais. )
+- 💻 Atualmente estou atuando na Área de Análista de Dados e Software na JCC, na qual estou desenvolvo projetos de Automação, Criação e Manutenção de sites voltados a Dados.
  
 - 🤝 Estou procurando por Experiências no Mercado de dados que me coloquem na Zona de Crescimento Profissional.
 
-- 🌱 Estou aprendendo **Python e Alterix (Ferramenta Facilitadora do uso de SQL)**
+- 🌱 Estou aprendendo **JavaScript e React**
 
 - 💬 Me pergunte sobre **Excel, Power Bi, SQL e Python**
 
